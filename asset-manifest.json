@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WheelOfDeut/static/css/main.e5a195f7.css",
+    "main.js": "/WheelOfDeut/static/js/main.5ae4e792.js",
+    "static/media/bg.jpg": "/WheelOfDeut/static/media/bg.f93979e0db86c7dd1b11.jpg",
+    "index.html": "/WheelOfDeut/index.html",
+    "main.e5a195f7.css.map": "/WheelOfDeut/static/css/main.e5a195f7.css.map",
+    "main.5ae4e792.js.map": "/WheelOfDeut/static/js/main.5ae4e792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a195f7.css",
+    "static/js/main.5ae4e792.js"
+  ]
+}
