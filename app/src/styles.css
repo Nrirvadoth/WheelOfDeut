@@ -48,10 +48,16 @@ h1, h2, p {
   font-style: italic;
 }
 
-.intro {
-  font-size: 18px;
-  max-width: 600px;
+p {
+  font-size: 16px;
+  max-width: 900px;
   margin:0 auto 15px;
+}
+
+.disclaimer {
+  color: red;
+  text-decoration: underline;
+  font-size: 18px;
 }
 
 #canvas {
