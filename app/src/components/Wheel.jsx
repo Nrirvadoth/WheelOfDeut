@@ -2,11 +2,13 @@ import WheelComponent from 'react-wheel-of-prizes'
 
 import data from '../data/data.json'
 
-const segments = []
+const allyList = []
 
-data.map((item) => (
-    segments.push(item.tag)
+data.map((ally) => (
+    allyList.push(ally.tag)
 ))
+
+const shuffledAllyList = allyList.sort(() => Math.random() - 0.5)
 
 const segColors = [
     '#EE4040',
@@ -51,7 +53,7 @@ export function Wheel() {
     return (
         <div className="wheel-container">
             <WheelComponent
-                segments={segments}
+                segments={shuffledAllyList}
                 segColors={segColors}
                 onFinished={(winner) => onFinished(winner)}
                 primaryColor='white'
