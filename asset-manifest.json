@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WheelOfDeut/static/css/main.85844183.css",
-    "main.js": "/WheelOfDeut/static/js/main.25f6b942.js",
+    "main.js": "/WheelOfDeut/static/js/main.c90860ed.js",
     "static/media/bg.jpg": "/WheelOfDeut/static/media/bg.f93979e0db86c7dd1b11.jpg",
     "index.html": "/WheelOfDeut/index.html",
     "main.85844183.css.map": "/WheelOfDeut/static/css/main.85844183.css.map",
-    "main.25f6b942.js.map": "/WheelOfDeut/static/js/main.25f6b942.js.map"
+    "main.c90860ed.js.map": "/WheelOfDeut/static/js/main.c90860ed.js.map"
   },
   "entrypoints": [
     "static/css/main.85844183.css",
-    "static/js/main.25f6b942.js"
+    "static/js/main.c90860ed.js"
   ]
 }
