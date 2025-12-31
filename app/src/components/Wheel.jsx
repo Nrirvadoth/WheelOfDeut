@@ -5,7 +5,7 @@ import data from '../data/data.json'
 const allyList = []
 
 data.map((ally) => (
-    allyList.push(ally.tag)
+    allyList.push(ally.name)
 ))
 
 const shuffledAllyList = allyList.sort(() => Math.random() - 0.5)
